@@ -26,5 +26,5 @@ Used DAX Query for Calculating AOV (Average Order Value): Implemented the formul
 + 𝐇𝐢𝐠𝐡𝐞𝐬𝐭 𝐏𝐫𝐨𝐟𝐢𝐭 𝐒𝐮𝐛-𝐂𝐚𝐭𝐞𝐠𝐨𝐫𝐲: The highest profit is generated through the Printers sub-category with ₹8,600 profit, followed by Bookcase with ₹6,500 profit.
 + 𝐌𝐨𝐧𝐭𝐡𝐥𝐲 𝐏𝐫𝐨𝐟𝐢𝐭 𝐓𝐫𝐞𝐧𝐝𝐬: The highest profit was generated in November with ₹10.3k, while May resulted in a loss with a negative trend of -₹3.7k.
 
-This project significantly enhanced Madhav Store's ability to understand and optimize their online sales strategy, driving better business outcomes.
+## DASHBOARD
 
