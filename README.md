@@ -38,5 +38,5 @@ During the course of this project, the following key skills and techniques were 
 + 𝐌𝐨𝐧𝐭𝐡𝐥𝐲 𝐏𝐫𝐨𝐟𝐢𝐭 𝐓𝐫𝐞𝐧𝐝𝐬: The highest profit was generated in November with ₹10.3k, while May resulted in a loss with a negative trend of -₹3.7k.
 
 #### 📊DASHBOARD
-<img width="668" alt="Screenshot 2024-11-11 230130" src="https://github.com/user-attachments/assets/197f043b-a94b-4201-8400-2933dfd17a77">
+<img width="668" alt="Screenshot 2024-11-12 194357" src="https://github.com/user-attachments/assets/d9af7ee4-e265-434c-9712-eb7da802c4ee">
 
