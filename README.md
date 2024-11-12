@@ -5,12 +5,22 @@ Develop an interactive Power BI dashboard to monitor online sales across differe
 Highlight key insights such as the highest market state, most profitable product category, top 5 customers by name, most used payment mode, and monthly profit trends.
 Enable data-driven decision-making and strategic planning for the store owner.
 
-### 𝐃𝐚𝐭𝐚 𝐈𝐦𝐩𝐨𝐫𝐭𝐢𝐧𝐠 (𝐂𝐒𝐕):
-Imported sales data from CSV files into Power BI for comprehensive analysis.
-Ensured data quality and consistency by cleaning and transforming the imported data.
+### Data Source
 
-### 𝐃𝐀𝐗 𝐐𝐮𝐞𝐫𝐲 𝐟𝐨𝐫 𝐀𝐎𝐕:
-Used DAX Query for Calculating AOV (Average Order Value): Implemented the formula `AOV = [Total Sales] / [Number of Orders]` to measure the average value of each order placed.
+The sales data is stored in CSV format, split across two files. The following steps were followed in the project:
+
+1. **Extract the Data**: The sales data was extracted from the provided CSV files.
+2. **Transform the Data**: Power BI's Power Query editor was utilized to transform and clean the raw data, making it suitable for analysis.
+3. **Load the Data in Power BI**: The transformed data was loaded into Power BI for visualization and analysis.
+   
+### Project Learning
+
+During the course of this project, the following key skills and techniques were utilized:
+
+ + **Interactive Dashboard Creation**: Created an interactive dashboard that allows users to explore online sales data easily.
+ + **Advanced Visualization Techniques**: Implemented complex parameters, filters, and slicers to enable dynamic and detailed data exploration.
+ + **Data Manipulation and Calculation**: Created connections, joined new tables, and performed calculations to manipulate data and enhance visualizations.
+ + **Customized Visualizations**: Utilized various customized visualizations such as bar charts, donut charts, clustered bar charts, slicers, etc., to present data effectively.
 
 ### 𝐕𝐢𝐬𝐮𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧𝐬:
    + **𝐒𝐭𝐚𝐜𝐤𝐞𝐝 𝐁𝐚𝐫 𝐂𝐡𝐚𝐫𝐭** : Displayed the sum of amount by states and sum of profit by sub-category, providing a clear comparison of sales and profitability across different regions and product categories.
