@@ -40,5 +40,7 @@ During the course of this project, the following key skills and techniques were 
 #### 📊DASHBOARD
 <img width="668" alt="Screenshot 2024-11-12 194357" src="https://github.com/user-attachments/assets/d9af7ee4-e265-434c-9712-eb7da802c4ee">
 
+
 **Data Model** :-
+
 <img width="666" alt="Screenshot 2024-11-12 194050" src="https://github.com/user-attachments/assets/ef9de64a-6d64-4688-a9b6-8ce3c12c679f">
