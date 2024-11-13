@@ -14,7 +14,7 @@ The sales data is stored in CSV format, split across two files. The following st
 3. **Load the Data in Power BI**: The transformed data was loaded into Power BI for visualization and analysis.
 
 ⚒️**Visualization Tool**:- Power BI Database :- Excel 
-### 📌Project Learning
+### ⏬️Project Learning
 
 During the course of this project, the following key skills and techniques were utilized:
 
@@ -30,7 +30,7 @@ During the course of this project, the following key skills and techniques were 
                                  amount.
    + **𝐂𝐚𝐫𝐝** : Highlighted key metrics such as total sales, total profit, and average order value, Sum of quantity sold.
 
-### ⏬️𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬:
+### 📌𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬:
 + 𝐓𝐨𝐩 𝐑𝐞𝐯𝐞𝐧𝐮𝐞 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐧𝐠 𝐒𝐭𝐚𝐭𝐞𝐬: Maharashtra and Madhya Pradesh are the top revenue-generating states with ₹120,000 and ₹87,000, respectively.
 + 𝐌𝐨𝐬𝐭 𝐒𝐨𝐥𝐝 𝐂𝐚𝐭𝐞𝐠𝐨𝐫𝐲: The most sold category across India is Clothing, with a 63% share.
 + 𝐌𝐨𝐬𝐭 𝐔𝐬𝐞𝐝 𝐏𝐚𝐲𝐦𝐞𝐧𝐭 𝐌𝐨𝐝𝐞: Cash on Delivery (COD) is the most used payment mode, with a 44% share, followed by UPI with a 21% share.
