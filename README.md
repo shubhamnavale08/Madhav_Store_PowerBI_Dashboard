@@ -1,4 +1,4 @@
-### MADHAV_ECOMMERCE_SALES_Project
+### MADHAV_ECOMMERCE_SALES_PROJECT
 
 ### 📊𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞:
 Develop an interactive Power BI dashboard to monitor online sales across different regions in India.
